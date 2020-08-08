@@ -1,4 +1,4 @@
-date,state,region_code,region_name,lat,lng,population,temperature,Humidity,Cloudiness,Wind Speed,sensing1,sensing2,sensing3,sensing4
+date,state,region_code,region_name,lat,lng,population,temperature,Humidity,Cloudiness,Wind_Speed,sensing1,sensing2,sensing3,sensing4
 2020-08-08T18:00:00,DZ,16,Algiers,36.763056,3.050556,3354000,29.1,74,66,96,22,96,,,,
 2020-08-08T18:00:02,DZ,25,Constantine,36.365,6.614722,605179,33.22,69,35,14,10,79,,,,
 2020-08-08T18:00:01,DZ,31,Oran,35.691111,-0.641667,798000,32.11,87,21,0,14,98,,,,
