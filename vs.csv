@@ -1,6 +1,6 @@
-date,state,region_code,region_name,lat,lng,population,Temperature,Humidity,Cloudiness,Wind_Speed,Heat_index,Pressure
+date,state,region_code,region_name,lat,lng,population,Temperature,Humidity,Precipitation,Wind_Speed,Heat_index,Pressure
 2020-06-01-T18:00:00,DZ,16,Algiers,36.763056,3.050556,3354000,22,48,68,23,68,33
-2020-06-01-T18:00:00,DZ,25,Constantine,36.365,6.614722,605179,31,57,88,3,49,59
+2020-06-01-T18:00:00,DZ,25,Constantine,36.365,6.614722,605179,22,57,1,6,13,93
 2020-06-01-T18:00:00,DZ,31,Oran,35.691111,-0.641667,798000,33,58,12,18,45,47
 2020-06-01-T18:00:00,DZ,9,Blida,36.470039,2.827699,511348,42,81,29,8,69,29
 2020-06-01-T18:00:00,DZ,23,Annaba,36.9,7.766667,503524,37,59,39,6,69,36
