@@ -1,4 +1,4 @@
-date,state,ID,regionname,lat,lng,population,Precipitation,WindSpeed,Heatindex,Humidity,Temperature,Pressure
+date,state,ID,regionname,lat,lng,population,Precipitations,WindSpeed,Heatindex,Humidity,Temperature,Pressure
 2020-01-01-T18:00:00,DZ,10,Algiers,36.763056,3.050556,2947461,0.00,1.67,5.33,72.30,10.04,100.33
 2020-01-02-T18:00:00,DZ,10,Algiers,36.763056,3.050556,2947461,0.00,1.64,4.35,64.03,10.82,100.27
 2020-01-03-T18:00:00,DZ,10,Algiers,36.763056,3.050556,2947461,0.00,1.68,4.59,65.13,10.82,100.22
